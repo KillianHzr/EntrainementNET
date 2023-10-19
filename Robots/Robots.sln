@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robots.Console", "Robots.Console\Robots.Console.csproj", "{22C736DB-7C20-485C-9549-DC0E932BE740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Robots.Console", "Robots.Console\Robots.Console.csproj", "{22C736DB-7C20-485C-9549-DC0E932BE740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryRobots", "ClassLibraryRobots\ClassLibraryRobots.csproj", "{381AF620-906A-4816-A25D-A0AC97D2D055}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Robots", "ClassLibraryRobots\Robots.csproj", "{381AF620-906A-4816-A25D-A0AC97D2D055}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
